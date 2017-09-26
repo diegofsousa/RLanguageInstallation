@@ -14,5 +14,15 @@ Por último, instale o R:
 Para verificar a instalação, execute-o pelo próprio terminal:
 > $ R
 
+<hr>
+
+Instalando o RStudio
+
+Baixe o arquivo ".deb" em:
+> https://www.rstudio.com/products/rstudio/download/#download
+
+Instale pelo terminal:
+> $ sudo dpkg -i rstudio-0.99-amd64.deb
+
 Enjoy! :)
 
